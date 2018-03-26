@@ -12,7 +12,7 @@ To use WNCY, simply install it as a new database using the provided MySQL files.
 
 ## Contact
 Questions about WordNet Cymraeg can be directed to:
---- Steve Neale <steveneale3000@gmail.com> <NealeS2@cardiff.ac.uk>
+--- Steve Neale <<steveneale3000@gmail.com>> <<NealeS2@cardiff.ac.uk>>
 
 ## License
-WordNet Cymraeg is distributed under the FreeBSD license. A copy of the license should be located within this repository. If not, see <https://www.freebsd.org/copyright/freebsd-license.html>
+WordNet Cymraeg is distributed under the FreeBSD license. A copy of the license should be located within this repository. If not, see <<https://www.freebsd.org/copyright/freebsd-license.html>>
