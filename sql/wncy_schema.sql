@@ -1,6 +1,9 @@
 -- WNCY database schema
 --
 
+-- Copyright (c) 2018, Steve Neale 
+-- All rights reserved.
+
 --
 -- 'words' table
 --
