@@ -1,14 +1,15 @@
 # WNCY: WordNet Cymraeg
 
 ## Using WNCY
-To use WNCY, simply install it as a new database using the provided MySQL files. For example in linux:  
+To use WNCY, simply install it as a new database using the provided SQL files. For example, using MySQL in linux:  
 --- mysql -u [user] -p [password] < wncy_schema.sql  
 --- mysql -u [user] -p [password] < wncy_data.sql  
 
 ## Contents
 --- sql/  
 ------ wncy_schema.sql  
------- wncy_data.sql  
+------ wncy_data.sql
+--- wncy.json  
 
 ## Contact
 Questions about WordNet Cymraeg can be directed to:  
